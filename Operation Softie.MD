@@ -1,10 +1,10 @@
 # Operation Softie
 
-## More than enough knowledge to become a capable programmer, Software Developer,  and Web Developer and get money to do it.
+## More than enough knowledge to become a capable programmer, Software Developer,  and Web Developer and get money to do it
 
 > start small, remain small, end up small
 
-### Why are you here?
+### Why are you here
 
 * Do you want to work for yourself creating stuff with code?
 * Do you want to work for someone else creating stuff with code?
@@ -13,11 +13,11 @@
 
 Turn you into a capable software engineer that can write software, anywhere, anytime, for yourself or for other people and get money for doing it.
 
-### What is meant by “capable software engineer”?
+### What is meant by “capable software engineer”
 
 [Wikipedia](https://en.wikipedia.org/wiki/Software_engineer) says a software engineer is a person who applies the principles of software engineering to the design, development, maintenance, testing, and evaluation of the software and systems that make computers or anything containing software work.
 
-### Ummm, in English.
+### Ummm, in English
 
 1.Is there a problem that someone will pay to have solved?
 2.Is there a problem that that someone will for software to solve?
@@ -31,7 +31,7 @@ If you can do steps 3 through 7, Check out the [link list](#), join the [mailing
 
 If steps 1 through 6 sound like you, but you're not making any money, or not making enough money, [check this out](#)
 
-## How Long will it take to complete everything?
+## How Long will it take to complete everything
 
 You can start calling yourself a coder, programmer, or engineer right now if you like. Other than that I don’t know. Everyone is different, most of us aren’t going to take this serious and quit in the first couple of weeks.
 
@@ -45,7 +45,7 @@ If you want to learn to create software because you heard “It pays good money�
 
 This isn’t a series of tutorials that will teach you how to lay bricks. This is commitment that will teach you how to build empires. If empire building were easy, everyone would be doing it. Most people are content playing on social media, watching tv, and hanging out at the club. If that sounds like you, you're probably not going to make it.
 
-### Ok, So what are we going to learn?
+### Ok, So what are we going to learn
 
 * We are going to learn how to create [production level software](http://softwareengineering.stackexchange.com/questions/68213/difference-between-software-development-and-production). This is software that makes money. You will be able to do it for yourself or other people. Either way you will get money.
 
@@ -67,7 +67,7 @@ This isn’t a series of tutorials that will teach you how to lay bricks. This i
 #### Programming / Scripting Languages
 
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-* [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) 
+* [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [SQL](https://en.wikipedia.org/wiki/SQL)
 
 #### Frameworks and Libraries
@@ -88,7 +88,7 @@ This isn’t a series of tutorials that will teach you how to lay bricks. This i
 ### Math and Reading
 
 > Math is going to help you learn to think the way you should be thinking when it comes to software, that’s pretty much it. If you don’t like math, that’s cool, you should still practice it. You don’t need to know a lot of math to be a successful programmer. You do need to be comfortable with math if you want to be a $150,000+/year programmer.
-
+---
 > We also need to read and we need to ready a lot. We are going to run into all kinds of problems and sometimes the only way to find the answer is to read. Reading is like any other skill. The more reading we, the better at reading we get and in turn, the more reading we can do. We will build a foundation of knowledge that can never be taken away which makes is possible for us to find and formulate new answers faster and faster.
 
 ### Additional skills
@@ -113,7 +113,7 @@ Anytime we experiment with front end code it will be posted to [CodePen](https:/
 
 ##### Full Stack Project Deployments
 
-* [Heroku](https://www.heroku.com/) 
+* [Heroku](https://www.heroku.com/)
 * [GoMix](https://gomix.com/about/)
 
 Some heftier more complicated options are:
@@ -169,7 +169,7 @@ That’s just the tip of the iceberg. Microsoft is a massive company that has it
 
 _[Average Salary: $92,000](https://www.glassdoor.com/Salaries/python-developer-salary-SRCH_KO0,16.htm)_
 
-Python has a syntax that is easy to learn, fun, versatile, and popular. Python also comes pre-installed on Apple computers (along with ruby). Python is widely used in data science (cleaning data and crunching numbers) and web development. 
+Python has a syntax that is easy to learn, fun, versatile, and popular. Python also comes pre-installed on Apple computers (along with ruby). Python is widely used in data science (cleaning data and crunching numbers) and web development.
 
 #### [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
 
@@ -179,7 +179,7 @@ JavaScript, also known as ECMAScript, is the most widely used programming langua
 
 #### HTML and CSS
 
-[Average Salary $76,000](https://www.glassdoor.com/Salaries/front-end-web-developer-salary-SRCH_KO0,23.htm) 
+[Average Salary $76,000](https://www.glassdoor.com/Salaries/front-end-web-developer-salary-SRCH_KO0,23.htm)
 
 HTML and CSS are all over the place. They are in our computers, our phones, our TV’s, our cars, everywhere.
 
@@ -207,7 +207,7 @@ Markdown was invented by [John Gruber](https://en.wikipedia.org/wiki/John_Gruber
 
 Markdown uses a parsing system of the same name to translate plain text files into a varying number of formats, thus enabling users to create web-pages and rich text documents using plain text. I wrote this entire document using nothing but markdown.
 
-## Proof that we are learning!
+## Proof that we are learning
 
 When it comes to learning, practice makes perfect. It's not about quality, it's about quantity. <!-- Would recommend changing this.  It's more like "Perfect practice makes perfect".  It's a favorite saying of Band Directors because it highlights that if you practice something wrong over and over then you will play it perfectly wrong. -->
 
@@ -270,7 +270,7 @@ This section is the basis for a curriculum on learning that I am putting togethe
 
 #### A better way to learn and remember
 
-**Holistic Learning**
+#### Holistic Learning
 
 * Why do you want to learn it
 * What do you expect to learn
@@ -279,25 +279,25 @@ This section is the basis for a curriculum on learning that I am putting togethe
 * After you study, what do you understand about thing you just learned
 * Reduce your understanding so you could explain it to a five year old and they would know what you're talking about
 
-**Palace of the mind**
+#### Palace of the mind
 
-**eudaimonia machine**
+#### Eudaimonia machin
 
-**The first 20 hours**
+#### The first 20 hours
 
-**10,000 hours**
+#### 10,000 hours
 
-**The feynman Method of Learning**
+#### The Feynman Method of Learning
 
-#### stages of learning
+#### Stages of learning
 
-**Dreyfus model of skill acquisition**
+#### Dreyfus model of skill acquisition
 
-**The seven states of expertise in** [software engineering](http://www.wayland-informatics.com/The%20Seven%20Stages%20of%20Expertise%20in%20Software.htm)
+#### The seven states of expertise in [software engineering](http://www.wayland-informatics.com/The%20Seven%20Stages%20of%20Expertise%20in%20Software.htm)
 
 ### Getting started
 
-Go to [Free Code Camp and Sign up](https://www.freecodecamp.com) Then:
+#### Go to [Free Code Camp and Sign up](https://www.freecodecamp.com) then
 
 * [ ] Complete [getting stared](https://www.freecodecamp.com)
 * [ ] Complete [HTML5 and CSS](https://www.freecodecamp.com)
@@ -306,33 +306,46 @@ Go to [Free Code Camp and Sign up](https://www.freecodecamp.com) Then:
 * [ ] Complete [jQuery](https://www.freecodecamp.com)
 * [ ] Complete [Basic Front End Development Projects](https://www.freecodecamp.com)
 
-When we get to the section Build a Personal Portfolio Page, don’t over think it, build it and build it fast. The Project will call for the page to be built on [Code Pen](https://www.codepen.io), at some point we are going to create a git repository for the page and possibly use [GitHub Pages](https://pages.github.com) to make it a functioning website that anyone can access.
+When we get to the section "Build a Personal Portfolio Page", don’t over think it, build it and build it fast. The Project will call for the page to be built on [Code Pen](https://www.codepen.io). At some point we are going to create a git repository for the page and possibly use [GitHub Pages](https://pages.github.com) to make it a functioning website that anyone can access.
 
 The portfolio page is going to come up again and your going to have all kinds of ideas.
 
 * [ ] Complete [Basic JavaScript](https://www.freecodecamp.com)
 
-The Following will increase our knowledge of 1\. JavaScript 2\. Advanced programming practices and terminologies 3\. Basic Project Planning 4\. Critical thinking
+The Following will increase our knowledge of
+
+1. JavaScript
+2. Advanced programming practices and terminologies
+3. Basic Project Planning
+4. Critical thinking
 
 **The result** - We will be able to solve sophisticated problems programmatically.
 
-Throughout the curriculum we are going to have to write code, since writing code is the only way to learn to write code, we need to setup an environment for writing code.
+Throughout the curriculum we are going to have to write code, since writing code is the only way to learn to write code. We'll also need to setup an environment for writing code.
 
-Earlier I said one of the development environments we would be using is Visual Studio Code (VS CODE). Since we are starting with JavaScript, we are going to need to setup VS Code to debug our Javascript and eventual Node.js and other javascript related code.
+Earlier I said one of the development environments we would be using is Visual Studio Code (VS CODE). Since we are starting with JavaScript, we are going to need to setup VS Code to debug our Javascript and eventual Node.js related code.
 
-[For instructions on setting up VS Code setting up VS Code for JavaScript Debugging click here](https://code.visualstudio.com/Docs/runtimes/nodejs)
+[For instructions on setting up VS Code for JavaScript Debugging click here](https://code.visualstudio.com/Docs/runtimes/nodejs)
+
+---
 
 * [ ] Complete [You don’t know JS: Up and going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
 * [ ] Complete [You Don’t Know JS: Scope and Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 * [ ] Complete [You Don’t know JS: This and Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
-This basically a refresher on the the HTML covered in the free code camp curriculum will cover allot of the things we might have questions on. From this material, we will be able to build complete web pages.
+---
+
+This will basically be a refresher on the the HTML covered in the Free Code Camp curriculum. This will cover a lot of the things we might have questions on. From this material, we will be able to build complete web pages.
 
 * [ ] Complete [Learn to Code HTML and CSS](http://learn.shayhowe.com/html-css/)
 
+---
+
 Now we’re going to use some more of what we have learned. If you build this site on Code Pen build a local version as well. If you build a local version, build a version on code pen.
 
-* [ ] Clone [this online resume](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) We will be able to do some pretty cool stuff with later as, even if we don’t plan on using it as an actual resume, which we should be.
+* [ ] Clone [this online resume](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) We will be able to do some pretty cool stuff with this later on, even if we don’t plan on using it as an actual resume, which we should be.
+
+---
 
 Before we go deeper into JavaScript and other programming theories, we are going to Harvard to take an intro to computer science course. The Course will cover 9 problem sets that will take us from 10 to 20 hours each.
 
@@ -344,21 +357,37 @@ Languages include - C - Python - SQL - JavaScript - CSS - HTML
 
 Each problem set is inspired by real world domains: - Biology - Cryptograph - Finance - Forensics - Gaming
 
-Students who earn a satisfactory score on 9 problem sets (programming assignments) and a final project are eliglble for a certificate. - [ ] Complete [CS50x Introduction to computer science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+Students who earn a satisfactory score on 9 problem sets (programming assignments) and a final project are eliglble for a certificate.
 
-Now it’s time to get back to JavaScript - [ ] Complete [You Don’t Know JS: Types and Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) - [ ] Complete [You Don’t Know JS: Async and Performance](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fgithub.com%2Fgetify%2FYou-Dont-Know-JS%2Fblob%2Fmaster%2Fasync%2520%26%2520performance%2FREADME.md%23you-dont-know-js-async--performance&post_id=118003&topic_id=64470)
+* [ ] Complete [CS50x Introduction to computer science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 
-* [ ] Complete [Learn to Code Advanced HTML and CSS](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3Dhttp%253A%252F%252Flearn.shayhowe.com%252Fadvanced-html-css%252F%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
+---
 
-If we have not done so already, we are going to head over to Free code camp an, - [ ] Complete [The Personal Portfolio Page](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage)
+Now it’s time to get back to JavaScript
 
-This is where we get in the habit of including every bit of information that sense for our projects. We leep this information in a README.markdown file - [ ] Learn about [Project Specification Documents](http://www.pixelearth.net/pages/project-specification)
+* [ ] Complete [You Don’t Know JS: Types and Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/README.md)
 
-* [ ] Complete [You Don’t Know JS: ES6 and Beyond](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fgithub.com%2Fgetify%2FYou-Dont-Know-JS%2Fblob%2Fmaster%2Fes6%2520%26%2520beyond%2FREADME.md%23you-dont-know-js-es6--beyond&post_id=118003&topic_id=64470)
+* [ ] Complete [You Don’t Know JS: Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
+
+* [ ] Complete [Learn to Code Advanced HTML and CSS](http://learn.shayhowe.com/advanced-html-css/)
+
+If we have not done so already, we are going to head over to Free Code Camp and complete the Personal Portfolio Page.
+
+* [ ] Complete [The Personal Portfolio Page](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage)
+
+This is where we get in the habit of documenting every bit of information for our projects. We keep this information in a README.markdown file
+
+* [ ] Learn about [Project Specification Documents](http://www.pixelearth.net/pages/project-specification)
+
+* [ ] Complete [You Don’t Know JS: ES6 and Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/README.md)
+
+This is a 4 week course requiring 2-5 hours a week. via [edX](https://www.edx.org/) from the [University of Texas at Austin](https://www.edx.org/school/utaustinx). Here we will learn to:
+
+    1. Engage in thinking about mathematical ideas
+    2. Apply effective strategies of thinking to approach questions in our live with insight and innovation
+    3. Think more effectively and imaginative throughout your lives
 
 * [ ] Complete [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)
-
-This is a 4 week course requiring 2-5 hours a week. via [edX](https://www.edx.org/) from the [University of Texas at Austin](https://www.edx.org/school/utaustinx). Here we will learn to: - Engage in thinking about mathematical ideas - Apply effective strategies of thinking to approach questions in our live with insight and innovation - Think more effectively and imaginative throughout your lives
 
 Following will give us insight on and prepare of for the future of JavaScript - [ ] Read through and understand [Setting Up ES6](https://leanpub.com/setting-up-es6/read) - [ ] Read and understand [JavaScropt Allonge](https://leanpub.com/javascriptallongesix)
 
@@ -366,9 +395,9 @@ Now that we have fair understanding JavaScript, we are going to take a look at a
 
 We have come quite a ways but, we’re not done yet. Now we are going to build an online Towers of Hanoi Solver that accepts a tower height between 5 and 10, then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved.
 
-* * *
+---
 
-* * *
+---
 
 ## This is where were going to get deep into to what it means to be a proficient software developer
 
@@ -427,9 +456,9 @@ This is where we are going to start flowcharting complex portions of our code lo
 
 * [ ] Build the [Pomodoro project from the FCC frontend curriculum - as an Android app](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock)
 
-* * *
+---
 
-* * *
+---
 
 * [ ] Read [Professor Frisby;s Mostly Adequate guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 * [ ] Complete [Software Testing Course](https://www.udacity.com/course/software-testing--cs258)
@@ -459,11 +488,11 @@ This is where we are going to start flowcharting complex portions of our code lo
 
 * [ ] Complee all challenges from [Code Jam Round 1B 2015](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fcode.google.com%2Fcodejam%2Fcontest%2F8224486%2Fdashboard&post_id=118003&topic_id=64470)
 
-* * *
+---
 
 Build Facebook clone with all the functionality listed [here](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fwww.theodinproject.com%2Fcourses%2Fruby-on-rails%2Flessons%2Ffinal-project&post_id=118003&topic_id=64470)
 
-* * *
+---
 
 * [ ] Complete [Introduction to theoretical computer science](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fintro-to-theoretical-computer-science--cs313&post_id=118003&topic_id=64470)
 
@@ -497,19 +526,19 @@ Build Facebook clone with all the functionality listed [here](https://forum.free
 
 * [ ] Compete [Machine Learning](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning&post_id=118003&topic_id=64470)
 
-* * *
+---
 
 This is a pretty big project! - [ ] Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it include a substantial AI component.
 
-* * *
+---
 
 * [ ] Complete [Operating Systems and System Programming](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.youtube.com%2Fview_play_list%3Fp%3D-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c&post_id=118003&topic_id=64470)
 
-* * *
+---
 
 * [ ] Create a Node Module that will convert markdown to properly formatted HTML
 
-* * *
+---
 
 * [ ] Complete [Compilers](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Flagunita.stanford.edu%2Fcourses%2FEngineering%2FCompilers%2FFall2014%2Fabout&post_id=118003&topic_id=64470)
 
@@ -541,11 +570,12 @@ So, the first thing we are going to do, is go learn git! This is going to do a f
 * Help us backup our work
 * prepare us for sharing our work
 
-_Chose one or chose them all!_ 
-* [A 10 minute read on what github is](https://guides.github.com/activities/hello-world/) 
-* [15 minutes to learn Git with hands on practice?](https://try.github.io/levels/1/challenges/1) 
-* [A simple Guide to Git, no deep shit](http://rogerdudler.github.io/git-guide/) 
-* [An entire video series on git](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-) 
+_Chose one or chose them all!_
+
+* [A 10 minute read on what github is](https://guides.github.com/activities/hello-world/)
+* [15 minutes to learn Git with hands on practice?](https://try.github.io/levels/1/challenges/1)
+* [A simple Guide to Git, no deep shit](http://rogerdudler.github.io/git-guide/)
+* [An entire video series on git](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
 * [Walk through every step of the Git process](http://gitimmersion.com/index.html)
 
 > Being comfortable doesn’t mean we can remember all the commands or understand Git or github inside out. If we can explain how it works to a 5 year old and know where look go when we get stuck, we are good.
@@ -574,58 +604,59 @@ These are the same links as before, just in a different place to make sure we do
 
 This is a commitment and a discipline within itself.
 
-* * *
+---
 
-* * *
+---
 
 [Software learning path](https://forum.freecodecamp.com/t/computer-guide-computer-science-and-web-development-comprehensive-path/64470)
 
 [John Washam on Retaining Computer Science Knowledge](https://googleyasheck.com/retaining-computer-science-knowledge/)
 
-* * *
+---
 
-### Questions 
+### Questions
+
 [design patterns: elements of reusable object oriented software](https://www.amazon.com/gp/product/B000SEIBB8?ie=UTF8&camp=213733&creative=393177&creativeASIN=B000SEIBB8&linkCode=shr&tag=eejs-20&linkId=CSQYBHTUP625XI4T)
 
-* * *
+---
 
 [what a closure is in JavaScript](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.enkw1t2rp)
 
-* * *
+---
 
 [Math Website Better Explained](https://betterexplained.com/articles/learn-math-like-mega-man/)
 
-* * *
+---
 
 [Coding Horrors recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
 
 In the art of software development, studying code isn’t enough; you have to study the people behind the software, too.
 
-* * *
+---
 
 [The seven states of expertise in software engineering](http://www.wayland-informatics.com/The%20Seven%20Stages%20of%20Expertise%20in%20Software.htm)
 
-* * *
+---
 
 [Talks that changed the way I think about programming](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 
-* * *
+---
 
 [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.k0vgb8l2u)
 
-* * *
+---
 
 [Gulp, Jekyll and GitHub (pages)](https://www.chenhuijing.com/blog/gulp-jekyll-github/)
 
-* * *
+---
 
 [Algebra - Khan Academy](https://www.khanacademy.org/math/algebra-home)
 
-* * *
+---
 
 ## Daily Log
 
-* * *
+---
 
 ## Links to stay inspired
 
@@ -635,8 +666,8 @@ In the art of software development, studying code isn’t enough; you have to st
 
 ### Front End Project Deployments
 
-* [Code Pen](https://www.codepen.io) 
-* [GitHub Pages](https://pages.github.com) 
+* [Code Pen](https://www.codepen.io)
+* [GitHub Pages](https://pages.github.com)
 * [Surge.sh](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fsurge.sh%2F&post_id=118003&topic_id=64470)
 
 ### HTML, CSS, and JavaScript References
@@ -645,7 +676,7 @@ In the art of software development, studying code isn’t enough; you have to st
 
 ### Database Hosting
 
-* [Firebase](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Ffirebase.google.com%2F&post_id=118003&topic_id=64470) 
+* [Firebase](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Ffirebase.google.com%2F&post_id=118003&topic_id=64470)
 * [Mlab](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3Dhttps%253A%252F%252Fmlab.com%252F%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
 
 ### Code Repository
@@ -654,8 +685,8 @@ In the art of software development, studying code isn’t enough; you have to st
 
 ### design Resources
 
-* [Material Design](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3Dhttps%253A%252F%252Fmaterial.google.com%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470) 
-* [Material Palette](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3D%252Fclicks%252Ftrack%253Furl%253Dhttps%25253A%25252F%25252Fwww.materialpalette.com%25252F%2526post_id%253D118003%2526topic_id%253D64470%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470) 
+* [Material Design](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3Dhttps%253A%252F%252Fmaterial.google.com%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
+* [Material Palette](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3D%252Fclicks%252Ftrack%253Furl%253Dhttps%25253A%25252F%25252Fwww.materialpalette.com%25252F%2526post_id%253D118003%2526topic_id%253D64470%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
 * [Wirify](https://www.wirify.com/)
 
 ## Keep in mind
@@ -721,6 +752,6 @@ In the art of software development, studying code isn’t enough; you have to st
 
 Project Softie was creating using content from: - [p1xt’s Guide:Computer Science and Web Development - Comprehensive Path](https://forum.freecodecamp.com/users/P1xt/activity) - [John Washam from Googley as Heck](https://googleyasheck.com/) and his [Google University](https://github.com/jwasham/google-interview-university) - [Free Code Camp](https://www.freecodecamp.com)
 
-* * *
+---
 
-* * *
+---
