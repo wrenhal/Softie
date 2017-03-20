@@ -1,6 +1,6 @@
 # Operation Softie
 
-## More than enough knowledge to become a capable programmer, Software Developer,  and Web Developer and get money to do it
+## More than enough knowledge to become a capable Programmer, Software Developer,  and Web Developer and get paid money to do it
 
 > start small, remain small, end up small
 
@@ -389,48 +389,55 @@ This is a 4 week course requiring 2-5 hours a week. via [edX](https://www.edx.or
 
 * [ ] Complete [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)
 
-Following will give us insight on and prepare of for the future of JavaScript - [ ] Read through and understand [Setting Up ES6](https://leanpub.com/setting-up-es6/read) - [ ] Read and understand [JavaScropt Allonge](https://leanpub.com/javascriptallongesix)
+The following will give us insight on and prepare us for the future of JavaScript
 
-Now that we have fair understanding JavaScript, we are going to take a look at advanced styles by way of [SaSS](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)) Sass is a Scripting Language that is interpreted into cascading style sheet. - [ ] Complete [Getting Sassy with Sass course](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fwww.sassshop.com%2F%23%2F&post_id=118003&topic_id=64470)
+* [ ] Read through and understand [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
+* [ ] Read and understand [JavaScropt Allonge](https://leanpub.com/javascriptallongesix)
 
-We have come quite a ways but, we’re not done yet. Now we are going to build an online Towers of Hanoi Solver that accepts a tower height between 5 and 10, then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved.
+Now that we have a fair understanding of JavaScript, we are going to take a look at advanced styles by way of [SaSS](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)) Sass is a Scripting Language that is interpreted into cascading style sheet.
+
+* [ ] Complete [Getting Sassy with Sass course](http://www.sassshop.com/#/)
+
+We have come quite a ways, but we’re not done yet. Now we are going to build an online [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) Solver that accepts a tower height between 5 and 10, then displays a graphical (animated) solution, moving each piece until the puzzle is solved. This is used to teach algorithms.
 
 ---
 
 ---
 
-## This is where were going to get deep into to what it means to be a proficient software developer
+## This is where we are going to get deep into to what it means to be a proficient software developer
 
-* [ ] Complete [How to Code: Systematic Program Design - part 1](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fhow-code-systematic-program-design-part-ubcx-spd1x&post_id=118003&topic_id=64470)
-* [ ] Complete [How to Code: Systematic Program Design - part 2](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fhow-code-systematic-program-design-part-ubcx-spd2x&post_id=118003&topic_id=64470)
-* [ ] Complete [How to Code: Systematic Program Design - part 3](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fhow-code-systematic-program-design-part-ubcx-spd3x&post_id=118003&topic_id=64470)
+* [ ] Complete [How to Code: Systematic Program Design - part 1](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd1x)
+* [ ] Complete [How to Code: Systematic Program Design - part 2](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd2x)
+* [ ] Complete [How to Code: Systematic Program Design - part 3](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd3x)
 
-* [ ] Read and understand [DOM Enlightenment](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fdomenlightenment.com%2F&post_id=118003&topic_id=64470)
+* [ ] Read and understand [DOM Enlightenment](http://domenlightenment.com/)
 
 * [ ] Build [Simon Game from the front end section of Free Code Camp](https://www.freecodecamp.com/challenges/build-a-simon-game)
 
-* [ ] Complete all the Classssic Puzzles on [CodinGame](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.codingame.com%2F&post_id=118003&topic_id=64470)
-* [ ] Complete the course [Introduction to MongoDB using the MEAN Stack](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fintroduction-mongodb-using-mean-stack-mongodbx-m101x-0&post_id=118003&topic_id=64470)
+* [ ] Complete all the Classic Puzzles on [CodinGame](https://www.codingame.com/start)
+* [ ] Complete the course [Introduction to MongoDB using the MEAN Stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
 * [ ] Complete [The Code Camp API Projects from the Back-End Development section](https://www.freecodecamp.com/map#nested-collapseAPIProjects)
 * [ ] Complete [The Code Camp Dynamic Web Application Projects from the Back-End Development section](https://www.freecodecamp.com/map#nested-collapseDynamicWebApplicationProjects)
 
 Time for some serous Mathematics
 
-* [ ] Complete the math course [Calculus One](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcalculus1&post_id=118003&topic_id=64470)
+* [ ] Complete the math course [Calculus One](https://www.coursera.org/learn/calculus1)
 
-* [ ] Read and understand [JavaScript Design Patterns](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Faddyosmani.com%2Fresources%2Fessentialjsdesignpatterns%2Fbook%2F&post_id=118003&topic_id=64470)
+* [ ] Read and understand [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-* [ ] Create a clone of [this landing page](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fblackrockdigital.github.io%2Fstartbootstrap-creative%2F&post_id=118003&topic_id=64470)
+* [ ] Create a clone of [this landing page](https://blackrockdigital.github.io/startbootstrap-creative/)
 
-* [ ] Create a clone of [this admin template](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Frubix410.sketchpixy.com%2Fltr%2Fdashboard&post_id=118003&topic_id=64470)
+* [ ] Create a clone of [this admin template](http://rubix410.sketchpixy.com/ltr/dashboard)
 
-* [ ] Read an understand [Algorithms and Flow Charts](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fwww.academia.edu%2F7857144%2FALGORITHMS_AND_FLOWCHARTS&post_id=118003&topic_id=64470)
+* [ ] Read an understand [Algorithms and Flow Charts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS)
 
-This is where we are going to start flowcharting complex portions of our code logic as part of our documentation. - [ ] familiarize yourself with [pencil, a open source templating tool](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fpencil.evolus.vn%2F&post_id=118003&topic_id=64470)
+This is where we are going to start flowcharting complex portions of our code logic as part of our documentation.
 
-* [ ] read and understand [Think Java - How to Think Like a Computer Scientist](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fgreenteapress.com%2Fwp%2Fthink-java%2F&post_id=118003&topic_id=64470)
+* [ ] familiarize yourself with [Pencil](http://pencil.evolus.vn/), an open source templating tool
 
-* [ ] Read and understand [Open Data Structures](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fwww.aupress.ca%2Fbooks%2F120226%2Febook%2F99Z_Morin_2013-Open_Data_Structures.pdf&post_id=118003&topic_id=64470)
+* [ ] read and understand [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)
+
+* [ ] Read and understand [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 * [ ] Read and understand [Algoriths Part 1](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.coursera.org%2Fcourse%2Falgs4partI&post_id=118003&topic_id=64470)
 * [ ] Read and understand [Algoriths Part 2](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.coursera.org%2Fcourse%2Falgs4partII&post_id=118003&topic_id=64470)
 
@@ -440,7 +447,7 @@ This is where we are going to start flowcharting complex portions of our code lo
 
 * [ ] Complete the course [UX Design for mobile developers](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fux-design-for-mobile-developers--ud849&post_id=118003&topic_id=64470)
 
-* [ ] Read the Book [Head First C# and work through all the exercises](#)
+* [ ] Read the Book [Head First C#](http://shop.oreilly.com/product/0636920027812.do) and work through all the exercises.
 
 * [ ] Complete [Xamarin for Absolute Beginners](https://mva.microsoft.com/en-us/training-courses/xamarin-for-absolute-beginners-16182?l=VTH3ytnLC_2204300477)
 
