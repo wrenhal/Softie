@@ -398,7 +398,7 @@ Now that we have a fair understanding of JavaScript, we are going to take a look
 
 * [ ] Complete [Getting Sassy with Sass course](http://www.sassshop.com/#/)
 
-We have come quite a ways, but we’re not done yet. Now we are going to build an online [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) Solver that accepts a tower height between 5 and 10, then displays a graphical (animated) solution, moving each piece until the puzzle is solved. This is used to teach algorithms.
+We have come quite a ways, but we’re not done yet. Now we are going to build an online [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) solver that accepts a tower height between 5 and 10, then displays a graphical (animated) solution, moving each piece until the puzzle is solved. This is used to teach algorithms.
 
 ---
 
@@ -419,7 +419,7 @@ We have come quite a ways, but we’re not done yet. Now we are going to build a
 * [ ] Complete [The Code Camp API Projects from the Back-End Development section](https://www.freecodecamp.com/map#nested-collapseAPIProjects)
 * [ ] Complete [The Code Camp Dynamic Web Application Projects from the Back-End Development section](https://www.freecodecamp.com/map#nested-collapseDynamicWebApplicationProjects)
 
-Time for some serous Mathematics
+### Time for some serous Mathematics
 
 * [ ] Complete the math course [Calculus One](https://www.coursera.org/learn/calculus1)
 
@@ -438,30 +438,30 @@ This is where we are going to start flowcharting complex portions of our code lo
 * [ ] read and understand [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)
 
 * [ ] Read and understand [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
-* [ ] Read and understand [Algoriths Part 1](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.coursera.org%2Fcourse%2Falgs4partI&post_id=118003&topic_id=64470)
-* [ ] Read and understand [Algoriths Part 2](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.coursera.org%2Fcourse%2Falgs4partII&post_id=118003&topic_id=64470)
+* [ ] Read and understand [Algorithms Part 1](https://www.coursera.org/learn/algorithms-part1)
+* [ ] Read and understand [Algorithms Part 2](https://www.coursera.org/learn/algorithms-part2)
 
-* [ ] Complete all [challenges from the CodeJam Qualification Round 2015](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fcode.google.com%2Fcodejam%2Fcontest%2F6224486%2Fdashboard&post_id=118003&topic_id=64470)
+* [ ] Complete all challenges from the [CodeJam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
 
-* [ ] Create a clone of the [this front page with modifications that highlight a different product or industry.](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Furbanarmorgear.com%2F&post_id=118003&topic_id=64470) Make special note of the secondary navigation bar at the top. Implementing this is the highlight of the project.
+* [ ] Create a clone of [this front page](https://urbanarmorgear.com/) with modifications that highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing this is the highlight of the project.
 
-* [ ] Complete the course [UX Design for mobile developers](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fux-design-for-mobile-developers--ud849&post_id=118003&topic_id=64470)
+* [ ] Complete the course [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 
 * [ ] Read the Book [Head First C#](http://shop.oreilly.com/product/0636920027812.do) and work through all the exercises.
 
 * [ ] Complete [Xamarin for Absolute Beginners](https://mva.microsoft.com/en-us/training-courses/xamarin-for-absolute-beginners-16182?l=VTH3ytnLC_2204300477)
 
-* [ ] Familiarize yourself with [the Xamarin developer website and resources](https://developer.xamarin.com/)
+* [ ] Familiarize yourself with the Xamarin [Developer Website](https://developer.xamarin.com/) and resources
 
-* [ ] read and understand the [Xamarin getting started documentation](https://developer.xamarin.com/guides/cross-platform/xamarin-studio/)
+* [ ] read and understand the Xamarin [Getting Started Documentation](https://developer.xamarin.com/guides/cross-platform/xamarin-studio/)
 
 * [ ] Familiarize yourself with the [Xamarin IOS Guide](https://developer.xamarin.com/guides/ios/)
 
-* [ ] Build the [Pomodoro project from the FCC frontend curriculum - as an IOS app](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock)
+* [ ] Build the [Pomodoro Project](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) from the FCC frontend curriculum - as an IOS app
 
 * [ ] Familiarize yourself with the [Xamarin Android Guide](https://developer.xamarin.com/guides/android/)
 
-* [ ] Build the [Pomodoro project from the FCC frontend curriculum - as an Android app](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock)
+* [ ] Build the [Pomodoro Project](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) from the FCC frontend curriculum - as an Android app
 
 ---
 
@@ -471,99 +471,98 @@ This is where we are going to start flowcharting complex portions of our code lo
 * [ ] Complete [Software Testing Course](https://www.udacity.com/course/software-testing--cs258)
 * [ ] Complete [Software Debugging Course](https://www.udacity.com/course/software-debugging--cs259)
 
-* [ ] Create A Clone of the Netflix interface using React, Angular, or Vue - pulling data from the [Movie DB API](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.themoviedb.org%2Fdocumentation%2Fapi&post_id=118003&topic_id=64470) or an API in a backend you create yourself.
+* [ ] Create A Clone of the Netflix interface using React, Angular, or Vue - pulling data from the [Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself.
 
-* [ ] Complete [Calculus Two: Sequence and Series](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fadvanced-calculus&post_id=118003&topic_id=64470)
+* [ ] Complete [Calculus Two: Sequence and Series](https://www.coursera.org/learn/advanced-calculus)
 
-* [ ] Complete [all classic puzzles on CodinGame Medium using the language of your choice](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.codingame.com%2F&post_id=118003&topic_id=64470)
+* [ ] Complete all classic puzzles on [CodinGame Medium](http://www.codingame.com) using the language of your choice
 
-* [ ] Complete [Software Architecture and Design](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fsoftware-architecture-design--ud821&post_id=118003&topic_id=64470)
+* [ ] Complete [Software Architecture and Design](https://www.udacity.com/course/software-architecture-design--ud821)
 
-* [ ] Complete [Challenges from Code Jam Round 1A 2015](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3Dhttps%253A%252F%252Fcode.google.com%252Fcodejam%252Fcontest%252F4224486%252Fdashboard%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
+* [ ] Complete Challenges from [Code Jam Round 1A 2015](https://code.google.com/codejam/contest/4224486/dashboard)
 
-* [ ] read [JavaScript Spessore](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fleanpub.com%2Fjavascript-spessore%2Fread&post_id=118003&topic_id=64470)
+<!-- * [ ] read [JavaScript Spessore](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fleanpub.com%2Fjavascript-spessore%2Fread&post_id=118003&topic_id=64470) -->
+<!-- The above Spessore book is no longer available -->
 
-* [ ] Create a clone of [this blog template that has mutiple pages](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fblackrockdigital.github.io%2Fstartbootstrap-clean-blog%2F&post_id=118003&topic_id=64470)
+* [ ] Create a clone of [this blog template that has mutiple pages](https://blackrockdigital.github.io/startbootstrap-clean-blog/)
 
-* [ ] Complete [Databases](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Flagunita.stanford.edu%2Fcourses%2FDB%2F2014%2FSelfPaced%2Fabout&post_id=118003&topic_id=64470)
+* [ ] Complete [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
-* [ ] Complete [Agile Software Development](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fagile-software-development-ethx-asd-1x&post_id=118003&topic_id=64470)
+* [ ] Complete [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 
-* [ ] Complete [ES6 Kata](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3Dhttp%253A%252F%252Fes6katas.org%252F%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
+* [ ] Complete [ES6 Kata](http://es6katas.org/)
 
-* [ ] Complete [Introduction to Cloud Computing](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fintroduction-cloud-computing-ieeex-cloudintro-x-0&post_id=118003&topic_id=64470)
+* [ ] Complete [Introduction to Cloud Computing](https://www.edx.org/course/introduction-cloud-computing-microsoft-cloud200x)
 
-* [ ] Complee all challenges from [Code Jam Round 1B 2015](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fcode.google.com%2Fcodejam%2Fcontest%2F8224486%2Fdashboard&post_id=118003&topic_id=64470)
+* [ ] Complee all challenges from [Code Jam Round 1B 2015](https://code.google.com/codejam/contest/8224486/dashboard)
 
----
+* [ ] Build a Facebook clone with all the functionality listed [here](http://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project )
 
-Build Facebook clone with all the functionality listed [here](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fwww.theodinproject.com%2Fcourses%2Fruby-on-rails%2Flessons%2Ffinal-project&post_id=118003&topic_id=64470)
+* [ ] Complete [Introduction to theoretical computer science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 
----
+* [ ] Complete all challenges from [Code Jam Round 1C 2015](https://code.google.com/codejam/contest/4244486/dashboard)
 
-* [ ] Complete [Introduction to theoretical computer science](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fintro-to-theoretical-computer-science--cs313&post_id=118003&topic_id=64470)
+* [ ] Complete [Introduction to Probability - the Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
 
-* [ ] Complete all challenges from [Code Jam Round 1C 2015](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3Dhttps%253A%252F%252Fcode.google.com%252Fcodejam%252Fcontest%252F4244486%252Fdashboard%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
+* [ ] Complete [Linear Algebra - Foundations and Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-05x#!)
 
-* [ ] Complete [Introduction to Probability - the Science of Uncertainty](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3Dhttps%253A%252F%252Fwww.edx.org%252Fcourse%252Fintroduction-probability-science-mitx-6-041x-0%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
+* [ ] Complete [Cryptography One](https://www.coursera.org/learn/crypto)
 
-* [ ] Complete [Linear Algebra - Foundations and Frontiers](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3Dhttps%253A%252F%252Fwww.edx.org%252Fcourse%252Fintroduction-probability-science-mitx-6-041x-0%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
+* [ ] Complete all challenges from [Code Jam Round 2 2015](https://code.google.com/codejam/contest/8234486/dashboard)
 
-* [ ] Complete [Cryptograph One](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.coursera.org%2Fcourse%2Fcrypto&post_id=118003&topic_id=64470)
+* [ ] Complete [Cryptography Two](https://www.coursera.org/learn/crypto2)
 
-* [ ] Complete all chanllenges from [Code Jam Round 2 201](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fcode.google.com%2Fcodejam%2Fcontest%2F8234486%2Fdashboard&post_id=118003&topic_id=64470)
+* [ ] Project: Clone Twitter - yes, all the functionality!
 
-* [ ] Complete [Cryptography Two](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.coursera.org%2Fcourse%2Fcrypto2&post_id=118003&topic_id=64470)
+* [ ] Complete [Computer Architecture](https://www.coursera.org/learn/comparch)
 
-* [ ] create a twitter clone with all the twitter functionality!
+* [ ] Complete all challenges from [Code Jam Round 3 2015](https://code.google.com/codejam/contest/4254486/dashboard)
 
-* [ ] Complete [Computer Architecture](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.coursera.org%2Fcourse%2Fcomparch&post_id=118003&topic_id=64470)
+* [ ] Complete [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
 
-* [ ] Complete [All challenges from Code Jam Round 3](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fcode.google.com%2Fcodejam%2Fcontest%2F4254486%2Fdashboard&post_id=118003&topic_id=64470)
+* [ ] Complete all classic puzzles on [Codingame Very Hard](https://www.codingame.com) using the language of your choice.
 
-* [ ] Complete [Introduction to Cyber Security](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.futurelearn.com%2Fcourses%2Fintroduction-to-cyber-security&post_id=118003&topic_id=64470)
+* [ ] Complete [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x-1)
 
-* [ ] Complete [All classic puzzles on Coding game very Hard using the language of your choice](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.codingame.com%2F&post_id=118003&topic_id=64470)
+* [ ] Complete [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x)
 
-* [ ] Complete [Computer Graphics](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fcomputer-graphics-uc-san-diegox-cse167x&post_id=118003&topic_id=64470)
+* [ ] Complete challenges from [Code Jam World Finals 2015](https://code.google.com/codejam/contest/5224486/dashboard)
 
-* [ ] Complete [Artificial Intelligence](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fartificial-intelligence-uc-berkeleyx-cs188-1x%23!&post_id=118003&topic_id=64470)
-
-* [ ] Complete [Challenges from Code Jam World Final](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fcode.google.com%2Fcodejam%2Fcontest%2F5224486%2Fdashboard&post_id=118003&topic_id=64470)
-
-* [ ] Compete [Machine Learning](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning&post_id=118003&topic_id=64470)
+* [ ] Compete [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 ---
 
-This is a pretty big project! - [ ] Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it include a substantial AI component.
+This is a pretty big project!
+
+* [ ] Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it include a substantial AI component.
 
 ---
+
+<!--  The course below is no longer going to be available
 
 * [ ] Complete [Operating Systems and System Programming](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.youtube.com%2Fview_play_list%3Fp%3D-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c&post_id=118003&topic_id=64470)
 
----
+-->
 
-* [ ] Create a Node Module that will convert markdown to properly formatted HTML
+* [ ] Project: Create a Node Module that will convert markdown to properly formatted HTML
 
----
+* [ ] Complete [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 
-* [ ] Complete [Compilers](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Flagunita.stanford.edu%2Fcourses%2FEngineering%2FCompilers%2FFall2014%2Fabout&post_id=118003&topic_id=64470)
+* [ ] Complete [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
 
-* [ ] Complete [Introduction to Natural Language Processing](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnatural-language-processing&post_id=118003&topic_id=64470)
+* [ ] Complete [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
-* [ ] Complete [Computer Networks](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3Dhttps%253A%252F%252Flagunita.stanford.edu%252Fcourses%252FEngineering%252FNetworking-SP%252FSelfPaced%252Fabout%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
+* [ ] Complete [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2016/home)
 
-* [ ] Complete [Parallel Computer Architecture and Programming](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2F15418.courses.cs.cmu.edu%2Fspring2016%2Fhome&post_id=118003&topic_id=64470)
+* [ ] Complete all problems from all rounds of the [Google Distributed Code Jam 2015](https://code.google.com/codejam/past-contests)
 
-* [ ] Complete all problems from all rounds of the [Distributed Google Code Jam 2015](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fcode.google.com%2Fcodejam%2Fcontests.html&post_id=118003&topic_id=64470)
+* [ ] Project: Create a Clone of Slack - the functionality should be complete to the point that one user can create a room, invite other users, and all users of that room can real-time chat. The room should be secure and inaccessible to anyone but those invited.
 
-* [ ] Create a Cone of Slack - the functionality should be complete to the point that one user can create a room, invite other users, and all users of that room can real-time chat. The room should be secure and inaccessible to anyone but those invited.
+-[ ] Project: Create a NPM module that bootsraps a fullstack application, with Node.js on the backend, and the SPA library/framework oof your choice on the frontend. Include a full test suite and comprehensive build process. Publish it the NPM
 
--[ ] Create a NPM midule that bootsraps a fullstack application, with Node.js on the backend, and the SPA library/framework oof your choice on the frontend. Include a full test suite and comprehensive build process. Publish it the NPM
+* [ ] Complete all problems from all rounds of [Google Code Jam 2016](https://code.google.com/codejam/past-contests)
 
-* [ ] Complete all problems from all rounds of [Google Code Jam 2016](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fcode.google.com%2Fcodejam%2Fcontests.html&post_id=118003&topic_id=64470)
-
-* [ ] Extend your CSS Grid Framework to include the CSS and JavaScript required to implement 5 to 10 material design components
+* [ ] Project: Extend your CSS Grid Framework to include the CSS and JavaScript required to implement 5 to 10 material design components
 
 ### Get Good with Git and Git Hub
 
