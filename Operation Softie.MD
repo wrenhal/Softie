@@ -19,15 +19,16 @@ Turn you into a capable software engineer that can write software, anywhere, any
 
 ### Ummm, in English
 
-1.Is there a problem that someone will pay to have solved?
-2.Is there a problem that that someone will for software to solve?
-3.Can we create stuff that solves problems?
-4.can we create stuff that is usable, maybe even fun to use?
-5.Can we create stuff that’s secure?
-6.can we create stuff that works?
-7.can we create stuff that makes money, for both ourselves and other people?
+1. Is there a problem that someone will pay to have solved?
+2. Is there a problem that that someone will for software to solve?
+3. Can we create stuff that solves problems?
+4. can we create stuff that is usable, maybe even fun to use?
+5. Can we create stuff that’s secure?
+6. can we create stuff that works?
+7. can we create stuff that makes money, for both ourselves and other people?
+
 <!-- Missing links here.  Where are these supposed to link to? -->
-If you can do steps 3 through 7, Check out the [link list](#), join the [mailing list](#). If you want to help others become like you [click here](#)
+If you can do steps 3 through 7, Check out the [link list](#), and join the [mailing list](#). If you want to help others become like you [click here](#)
 
 If steps 1 through 6 sound like you, but you're not making any money, or not making enough money, [check this out](#)
 
