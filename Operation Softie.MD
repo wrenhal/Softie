@@ -26,7 +26,7 @@ Turn you into a capable software engineer that can write software, anywhere, any
 5.Can we create stuff that’s secure?
 6.can we create stuff that works?
 7.can we create stuff that makes money, for both ourselves and other people?
-
+<!-- Missing links here.  Where are these supposed to link to? -->
 If you can do steps 3 through 7, Check out the [link list](#), join the [mailing list](#). If you want to help others become like you [click here](#)
 
 If steps 1 through 6 sound like you, but you're not making any money, or not making enough money, [check this out](#)
@@ -343,7 +343,7 @@ This will basically be a refresher on the the HTML covered in the Free Code Camp
 
 Now we’re going to use some more of what we have learned. If you build this site on Code Pen build a local version as well. If you build a local version, build a version on code pen.
 
-* [ ] Clone [this online resume](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) We will be able to do some pretty cool stuff with this later on, even if we don’t plan on using it as an actual resume, which we should be.
+* [ ] **Project:** Clone [this online resume](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) We will be able to do some pretty cool stuff with this later on, even if we don’t plan on using it as an actual resume, which we should be.
 
 ---
 
@@ -412,14 +412,14 @@ We have come quite a ways, but we’re not done yet. Now we are going to build a
 
 * [ ] Read and understand [DOM Enlightenment](http://domenlightenment.com/)
 
-* [ ] Build [Simon Game from the front end section of Free Code Camp](https://www.freecodecamp.com/challenges/build-a-simon-game)
+* [ ] **Project:** Build [Simon Game from the front end section of Free Code Camp](https://www.freecodecamp.com/challenges/build-a-simon-game)
 
 * [ ] Complete all the Classic Puzzles on [CodinGame](https://www.codingame.com/start)
 * [ ] Complete the course [Introduction to MongoDB using the MEAN Stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
 * [ ] Complete [The Code Camp API Projects from the Back-End Development section](https://www.freecodecamp.com/map#nested-collapseAPIProjects)
 * [ ] Complete [The Code Camp Dynamic Web Application Projects from the Back-End Development section](https://www.freecodecamp.com/map#nested-collapseDynamicWebApplicationProjects)
 
-### Time for some serous Mathematics
+## Time for some serous Mathematics
 
 * [ ] Complete the math course [Calculus One](https://www.coursera.org/learn/calculus1)
 
@@ -433,9 +433,9 @@ We have come quite a ways, but we’re not done yet. Now we are going to build a
 
 This is where we are going to start flowcharting complex portions of our code logic as part of our documentation.
 
-* [ ] familiarize yourself with [Pencil](http://pencil.evolus.vn/), an open source templating tool
+* [ ] Familiarize yourself with [Pencil](http://pencil.evolus.vn/), an open source templating tool
 
-* [ ] read and understand [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)
+* [ ] Read and understand [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)
 
 * [ ] Read and understand [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 * [ ] Read and understand [Algorithms Part 1](https://www.coursera.org/learn/algorithms-part1)
@@ -443,7 +443,7 @@ This is where we are going to start flowcharting complex portions of our code lo
 
 * [ ] Complete all challenges from the [CodeJam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
 
-* [ ] Create a clone of [this front page](https://urbanarmorgear.com/) with modifications that highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing this is the highlight of the project.
+* [ ] **Project:** Create a clone of [this front page](https://urbanarmorgear.com/) with modifications that highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing this is the highlight of the project.
 
 * [ ] Complete the course [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 
@@ -453,7 +453,7 @@ This is where we are going to start flowcharting complex portions of our code lo
 
 * [ ] Familiarize yourself with the Xamarin [Developer Website](https://developer.xamarin.com/) and resources
 
-* [ ] read and understand the Xamarin [Getting Started Documentation](https://developer.xamarin.com/guides/cross-platform/xamarin-studio/)
+* [ ] Read and understand the Xamarin [Getting Started Documentation](https://developer.xamarin.com/guides/cross-platform/xamarin-studio/)
 
 * [ ] Familiarize yourself with the [Xamarin IOS Guide](https://developer.xamarin.com/guides/ios/)
 
@@ -467,11 +467,11 @@ This is where we are going to start flowcharting complex portions of our code lo
 
 ---
 
-* [ ] Read [Professor Frisby;s Mostly Adequate guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
+* [ ] Read [Professor Frisby's Mostly Adequate guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 * [ ] Complete [Software Testing Course](https://www.udacity.com/course/software-testing--cs258)
 * [ ] Complete [Software Debugging Course](https://www.udacity.com/course/software-debugging--cs259)
 
-* [ ] Create A Clone of the Netflix interface using React, Angular, or Vue - pulling data from the [Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself.
+* [ ] **Project:** Create A Clone of the Netflix interface using React, Angular, or Vue - pulling data from the [Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself.
 
 * [ ] Complete [Calculus Two: Sequence and Series](https://www.coursera.org/learn/advanced-calculus)
 
@@ -556,27 +556,27 @@ This is a pretty big project!
 
 * [ ] Complete all problems from all rounds of the [Google Distributed Code Jam 2015](https://code.google.com/codejam/past-contests)
 
-* [ ] Project: Create a Clone of Slack - the functionality should be complete to the point that one user can create a room, invite other users, and all users of that room can real-time chat. The room should be secure and inaccessible to anyone but those invited.
+* [ ] **Project:** Create a Clone of Slack - the functionality should be complete to the point that one user can create a room, invite other users, and all users of that room can real-time chat. The room should be secure and inaccessible to anyone but those invited.
 
--[ ] Project: Create a NPM module that bootsraps a fullstack application, with Node.js on the backend, and the SPA library/framework oof your choice on the frontend. Include a full test suite and comprehensive build process. Publish it the NPM
+-[ ] **Project:** Create a NPM module that bootsraps a fullstack application, with Node.js on the backend, and the SPA library/framework oof your choice on the frontend. Include a full test suite and comprehensive build process. Publish it the NPM
 
 * [ ] Complete all problems from all rounds of [Google Code Jam 2016](https://code.google.com/codejam/past-contests)
 
-* [ ] Project: Extend your CSS Grid Framework to include the CSS and JavaScript required to implement 5 to 10 material design components
+* [ ] **Project:** Extend your CSS Grid Framework to include the CSS and JavaScript required to implement 5 to 10 material design components
 
 ### Get Good with Git and Git Hub
 
-Git and GitHub are the tools we will use to backup and control the versions of the tings we create, as well as share them with the world.
+Git and GitHub are the tools we will use to backup and control the versions of the programs we create, as well as share them with the world.
 
 So, the first thing we are going to do, is go learn git! This is going to do a few things for us.
 
 * Get us comfortable with our computers
 * Get us comfortable with the command line
-* help us create different versions of our work
+* Help us create different versions of our work
 * Help us backup our work
-* prepare us for sharing our work
+* Prepare us for sharing our work
 
-_Chose one or chose them all!_
+_Choose one or choose them all!_
 
 * [A 10 minute read on what github is](https://guides.github.com/activities/hello-world/)
 * [15 minutes to learn Git with hands on practice?](https://try.github.io/levels/1/challenges/1)
@@ -584,17 +584,17 @@ _Chose one or chose them all!_
 * [An entire video series on git](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
 * [Walk through every step of the Git process](http://gitimmersion.com/index.html)
 
-> Being comfortable doesn’t mean we can remember all the commands or understand Git or github inside out. If we can explain how it works to a 5 year old and know where look go when we get stuck, we are good.
+> Being comfortable doesn’t mean we can remember all the commands or understand Git or Github inside and out. If we can explain how it works to a 5 year old and know where to go when we get stuck, we are good.
 
-_When your comfortable with Git, move on!_
+_When you're comfortable with Git, move on!_
 
-### Get your website up and and running
+## Get your website up and and running
 
-* learn about site generation and host your website on github pages
+* Learn about site generation and host your website on [Github Pages](https://pages.github.com/)
 
-### Step Three - Getting comfortable with math
+<!-- ### Step Three - Getting comfortable with math -->
 
-### Step Three - Advanced Knowledge
+## Advanced Knowledge
 
 These are the same links as before, just in a different place to make sure we don’t skip getting familiar with Git, its important like that.
 
@@ -605,62 +605,49 @@ These are the same links as before, just in a different place to make sure we do
 * [Walk through every step of the Git process](http://gitimmersion.com/index.html)
 
 > Microsoft has its own version control software, [Team Foundation Server](https://www.visualstudio.com/tfs/). We don’t need to learn about it now because, github is popular and does everything we need it to do, knowing how to use github isn’t a bad skill to have and github will make us extremely comfortable with version control.
-
-### Brushing up on our Mathematics
+<!--  Not sure why the below Mathematics and line are here
+## Brushing up on our Mathematics
 
 This is a commitment and a discipline within itself.
+-->
+---
+<!-- What are these following items to be listed under? -->
+
+* [ ] P1xt's [Software Learning Path](https://forum.freecodecamp.com/t/computer-guide-computer-science-and-web-development-comprehensive-path/64470) on Free Code Camp
+
+* [ ] John Washam on [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 
 ---
 
----
+## Questions
 
-[Software learning path](https://forum.freecodecamp.com/t/computer-guide-computer-science-and-web-development-comprehensive-path/64470)
+* [ ] Book: [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/gp/product/B000SEIBB8?ie=UTF8&camp=213733&creative=393177&creativeASIN=B000SEIBB8&linkCode=shr&tag=eejs-20&linkId=CSQYBHTUP625XI4T)
 
-[John Washam on Retaining Computer Science Knowledge](https://googleyasheck.com/retaining-computer-science-knowledge/)
+* [ ] What is a [Closure is in JavaScript?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.enkw1t2rp)
 
----
+* [ ] Learning Math on [Better Explained](https://betterexplained.com/articles/learn-math-like-mega-man/)
 
-### Questions
+* [ ] Coding Horror [Recommended Reading for Developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
 
-[design patterns: elements of reusable object oriented software](https://www.amazon.com/gp/product/B000SEIBB8?ie=UTF8&camp=213733&creative=393177&creativeASIN=B000SEIBB8&linkCode=shr&tag=eejs-20&linkId=CSQYBHTUP625XI4T)
-
----
-
-[what a closure is in JavaScript](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.enkw1t2rp)
+> In the art of software development, studying code isn’t enough; you have to study the people behind the software, too.
 
 ---
 
-[Math Website Better Explained](https://betterexplained.com/articles/learn-math-like-mega-man/)
+* [ ] [The Seven Stages of Expertise in Software Engineering](http://www.wayland-informatics.com/The%20Seven%20Stages%20of%20Expertise%20in%20Software.htm)
 
----
+* [ ] [Talks that changed the way I think about programming](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 
-[Coding Horrors recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
+* [ ] [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.k0vgb8l2u)
 
-In the art of software development, studying code isn’t enough; you have to study the people behind the software, too.
+* [ ] [Gulp, Jekyll and GitHub (pages)](https://www.chenhuijing.com/blog/gulp-jekyll-github/)
 
----
-
-[The seven states of expertise in software engineering](http://www.wayland-informatics.com/The%20Seven%20Stages%20of%20Expertise%20in%20Software.htm)
-
----
-
-[Talks that changed the way I think about programming](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
-
----
-
-[Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.k0vgb8l2u)
-
----
-
-[Gulp, Jekyll and GitHub (pages)](https://www.chenhuijing.com/blog/gulp-jekyll-github/)
-
----
-
-[Algebra - Khan Academy](https://www.khanacademy.org/math/algebra-home)
+* [ ] [Algebra - Khan Academy](https://www.khanacademy.org/math/algebra-home)
 
 ---
 
 ## Daily Log
+
+* [ ] This will be filled later
 
 ---
 
@@ -674,7 +661,7 @@ In the art of software development, studying code isn’t enough; you have to st
 
 * [Code Pen](https://www.codepen.io)
 * [GitHub Pages](https://pages.github.com)
-* [Surge.sh](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fsurge.sh%2F&post_id=118003&topic_id=64470)
+* [Surge.sh](https://surge.sh/)
 
 ### HTML, CSS, and JavaScript References
 
@@ -682,34 +669,34 @@ In the art of software development, studying code isn’t enough; you have to st
 
 ### Database Hosting
 
-* [Firebase](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Ffirebase.google.com%2F&post_id=118003&topic_id=64470)
-* [Mlab](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3Dhttps%253A%252F%252Fmlab.com%252F%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
+* [Firebase](https://firehttps://mlab.com/base.google.com/)
+* [Mlab](https://mlab.com/)
 
 ### Code Repository
 
-* [GitHub](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fgithub.com%2F&post_id=118003&topic_id=64470)
+* [GitHub](https://github.com)
 
-### design Resources
+### Design Resources
 
-* [Material Design](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3Dhttps%253A%252F%252Fmaterial.google.com%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
-* [Material Palette](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3D%252Fclicks%252Ftrack%253Furl%253Dhttps%25253A%25252F%25252Fwww.materialpalette.com%25252F%2526post_id%253D118003%2526topic_id%253D64470%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
+* [Material Design](https://material.io/guidelines/)
+* [Material Palette](https://www.materialpalette.com/)
 * [Wirify](https://www.wirify.com/)
 
-## Keep in mind
+## Things To Keep in mind
 
-* have git commits every weeek, most of the days of the week
-* try to pick one to two other language to use regularly for solving algorithms and implementing projects in addition to JavaScript (good choices would be to pick one of C++, Hava or Pythin and one of Golang or Rust)
+* Try to have git commits every weeek, most of the days of the week
+* Try to pick one to two other languages to use regularly for solving algorithms and implementing projects in addition to JavaScript (good choices would be to pick one of C++, Java or Python and one of either Golang or Rust)
 
 ## For each item we should
 
 * Take notes, on a blog, in markdowm , wherever, somewhere - not about what we read, or about what the instructor said - about what we learned
-* build something - even if it’s just a 20 line function that computes something we find interesting
+* Build something - even if it’s just a 20 line function that computes something we find interesting
 * If we build something, document it and test it as approprate
-* Do the exercises, build the projects -fully, not some scaled down halfassery
+* Do the exercises, build the projects fully, not some scaled down halfassery
 
 ### For the Project of our choosing
 
-* Seek 103 other developers to collborate on the project
+* Seek 103 other developers to collaborate on the project <!-- 103??????? -->
 * Coordinate with the team to complete the project
 * Build the project out to a full production quality application
 * Invite others who are not associated with the team to rigourously test the final product
@@ -718,37 +705,39 @@ In the art of software development, studying code isn’t enough; you have to st
 ### Once per month do two of the following
 
 * Write up a comprehensive blog post or markdown entry in a repository detailing the high points of what we learned that month
-* what [this video](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4NIb9l3imAo&post_id=118003&topic_id=64470) and [this video](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEg5-tdAwclo&post_id=118003&topic_id=64470) - on interviewing
-* Read [this](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fsteve-yegge.blogspot.co.uk%2F2007_09_01_archive.html&post_id=118003&topic_id=64470) on crafting a resume
-* Do one lesson from [CUST 104: Business Communications](https://forum.freecodecamp.com/clicks/track?url=%2Fclicks%2Ftrack%3Furl%3Dhttps%253A%252F%252Flearn.saylor.org%252Fcourse%252Fview.php%253Fid%253D345%26post_id%3D118003%26topic_id%3D64470&post_id=118003&topic_id=64470)
-* Live stream what we are working on for an hour. OR, lend a hand to someone who needs help by screensharing and walking them through it.
-* Catch up on industry reading on sites like
-* [Joel on Software](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.joelonsoftware.com%2F&post_id=118003&topic_id=64470)
-* [Coding Horror](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fblog.codinghorror.com%2F&post_id=118003&topic_id=64470)
-* [CSS Tricks](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fcss-tricks.com%2F&post_id=118003&topic_id=64470)
-* [A list Apart](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Falistapart.com%2Farticles&post_id=118003&topic_id=64470)
-* [UX Mythis](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fuxmyths.com%2F&post_id=118003&topic_id=64470)
-* [JavaScript Weekly](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fjavascriptweekly.com%2F&post_id=118003&topic_id=64470)
-* [Daring FireBall](https://www.daringfireball.com)
+* Watch [this video](https://www.youtube.com/watch?v=4NIb9l3imAo) and [this video](https://www.youtube.com/watch?v=Eg5-tdAwclo) - on interviewing
+* Read [this blog post](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html) on crafting a resume
+* Do one lesson from [CUST 104: Business Communications](https://learn.saylor.org/course/view.php?id=345)
+* Live stream what we are working on for an hour, or lend a hand to someone who needs help by screensharing and walking them through it.
+
+### Catch up on industry reading on sites like
+
+* [Joel on Software](https://www.joelonsoftware.com/)
+* [Coding Horror](https://blog.codinghorror.com/)
+* [CSS Tricks](https://css-tricks.com/)
+* [A list Apart](https://alistapart.com/articles)
+* [UX Mythis](http://uxmyths.com/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [Daring FireBall](https://www.daringfireball.net)<!-- I personally wouldn't use this because it's more a personal blog and has a lot of political ranting rather than pertaining to coding -->
 * [Hacker Newsletter](http://www.hackernewsletter.com/)
 * [Indie Hacker](https://www.indiehackers.com/businesses)
 
 ### Need to take a break from something that is kicking your ass? Do one of these
 
 * Complete a project from [Free Code Camp](https://www.freecodecamp.com) that isn’t in the course
-* Picl a pet web development project you can code in a week and complete it
-* Watch one of the [vidoes from sprout about learning](https://www.youtube.com/channel/UC-RKpEc4eE9PwJaupN91xYQ)
+* Pick a pet web development project you can code in a week and complete it
+* Watch one of [these vidoes](https://www.youtube.com/channel/UC-RKpEc4eE9PwJaupN91xYQ) from sprout about learning
 * Code another mobile application
 * Write a guide or tutorial for your website or some other website or create a video tutorial and post it to YouTube
 * Learn another programming language and use it to complete any of the back-end projects from Free Code Camp with that language as the back-end language.
-* redo any of the algorithmic type projects you’ve already completed from the course, in a language other than JavaScript
-* Picl an open source project from [Code Triage](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fwww.codetriage.com%2F&post_id=118003&topic_id=64470) and contribute to fixing an open issue
-* visit the Free Code Camp forum and pick a couple of the toughest questions, that people are having trouble getting help with, and help them
-* Code a flash cards application, for jotting quick notes you can use to quiz yourself later
+* Redo any of the algorithmic type projects you’ve already completed from the course, in a language other than JavaScript
+* Pick an open source project from [Code Triage](https://www.codetriage.com/) and contribute to fixing an open issue
+* visit the [Free Code Camp forum](https://forum.freecodecamp.com/) and pick a couple of the toughest questions that people are having trouble getting help with, and help them
+* Code a Flash Card application, for jotting quick notes you can use to quiz yourself later
 
 ### Other resources
 
-[OpenStax](https://forum.freecodecamp.com/clicks/track?url=https%3A%2F%2Fopenstax.org%2Fsubjects&post_id=118003&topic_id=64470)
+[OpenStax](https://openstax.org/subjects)
 
 ### Up and comers
 
@@ -756,7 +745,7 @@ In the art of software development, studying code isn’t enough; you have to st
 
 ### Attributions
 
-Project Softie was creating using content from: - [p1xt’s Guide:Computer Science and Web Development - Comprehensive Path](https://forum.freecodecamp.com/users/P1xt/activity) - [John Washam from Googley as Heck](https://googleyasheck.com/) and his [Google University](https://github.com/jwasham/google-interview-university) - [Free Code Camp](https://www.freecodecamp.com)
+Project Softie was creating using content from: - [p1xt’s Guide:Computer Science and Web Development - Comprehensive Path](https://forum.freecodecamp.com/t/computer-guide-web-development-with-computer-science-foundations-comprehensive-path/64516) - [John Washam from Startup Next Door](https://startupnextdoor.com/) <!-- Googley as Heck doesn't exist anymore -->and his [Coding Interview University](https://github.com/jwasham/coding-interview-university) - [Free Code Camp](https://www.freecodecamp.com)
 
 ---
 
