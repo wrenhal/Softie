@@ -282,7 +282,7 @@ This section is the basis for a curriculum on learning that I am putting togethe
 
 #### Palace of the mind
 
-#### Eudaimonia machin
+#### Eudaimonia Machine
 
 #### The first 20 hours
 
@@ -309,7 +309,7 @@ This section is the basis for a curriculum on learning that I am putting togethe
 
 When we get to the section "Build a Personal Portfolio Page", don’t over think it, build it and build it fast. The Project will call for the page to be built on [Code Pen](https://www.codepen.io). At some point we are going to create a git repository for the page and possibly use [GitHub Pages](https://pages.github.com) to make it a functioning website that anyone can access.
 
-The portfolio page is going to come up again and your going to have all kinds of ideas.
+The portfolio page is going to come up again and you're going to have all kinds of ideas.
 
 * [ ] Complete [Basic JavaScript](https://www.freecodecamp.com)
 
