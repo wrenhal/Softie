@@ -1,17 +1,17 @@
 # Operation Softie
 
-## More than enough knowledge to become a capable Programmer, Software Developer,  and Web Developer and get paid money to do it
+## More than enough knowledge to become a capable Programmer, Software Developer, and Web Developer and get paid money to do it
 
 > start small, remain small, end up small
 
-### Why are you here
+### Why are you here?
 
 * Do you want to work for yourself creating stuff with code?
 * Do you want to work for someone else creating stuff with code?
 
 ### One Goal
 
-Turn you into a capable software engineer that can write software, anywhere, anytime, for yourself or for other people and get money for doing it.
+Turn you into a capable software engineer that can write software anywhere, anytime, for yourself or for other people and get money for doing it.
 
 ### What is meant by “capable software engineer”
 
@@ -20,33 +20,36 @@ Turn you into a capable software engineer that can write software, anywhere, any
 ### Ummm, in English
 
 1. Is there a problem that someone will pay to have solved?
-2. Is there a problem that that someone will for software to solve?
+2. Is there a problem that that someone will pay for software to solve?
 3. Can we create stuff that solves problems?
-4. can we create stuff that is usable, maybe even fun to use?
+4. Can we create stuff that is usable, maybe even fun to use?
 5. Can we create stuff that’s secure?
-6. can we create stuff that works?
-7. can we create stuff that makes money, for both ourselves and other people?
+6. Can we create stuff that works?
+7. Can we create stuff that makes money, for both ourselves and other people?
 
 <!-- Missing links here.  Where are these supposed to link to? -->
-If you can do steps 3 through 7, Check out the [link list](#), and join the [mailing list](#). If you want to help others become like you [click here](#)
 
-If steps 1 through 6 sound like you, but you're not making any money, or not making enough money, [check this out](#)
+* If you can do steps 3 through 7, check out the [link list](#), and join the [mailing list](#).
 
-## How Long will it take to complete everything
+* If you want to help others become like you then [click here](#).
 
-You can start calling yourself a coder, programmer, or engineer right now if you like. Other than that I don’t know. Everyone is different, most of us aren’t going to take this serious and quit in the first couple of weeks.
+* If steps 1 through 6 sound like you, but you're not making any money, or not making enough money, [check this out](#).
+
+## How Long will it take to complete everything?
+
+You can start calling yourself a coder, programmer, or engineer right now if you like. Other than that I don’t know. Everyone is different. Most of us aren’t going to take this serious and quit in the first couple of weeks.
 
 Those that don’t quit will probably reach their goal before they complete everything. The goal is to get what we want, not to check a bunch of blocks.
 
 **The question we should be asking, is what do we want and why do we want it?**
 
-If you want to learn to create software because you heard “It pays good money”, you're in the wrong place. Over time everyone will learn and be able to create basic software and the pay is going to go down. The money comes from problem solving, critical thinking, marketing and selling.
+If you want to learn to create software because you heard “It pays good money”, you're in the wrong place. Over time everyone will learn and be able to create basic software and the pay is going to go down. The money comes from problem solving, critical thinking, marketing, and selling.
 
 > The brick maker will always make more money than the brick layer, because the brick layer will always need more bricks to lay. The most successful brick maker will try to put himself out of business everyday.
 
-This isn’t a series of tutorials that will teach you how to lay bricks. This is commitment that will teach you how to build empires. If empire building were easy, everyone would be doing it. Most people are content playing on social media, watching tv, and hanging out at the club. If that sounds like you, you're probably not going to make it.
+This isn’t a series of tutorials that will teach you how to lay bricks. This is a commitment that will teach you how to build empires. If empire building were easy, everyone would be doing it. Most people are content playing on social media, watching tv, and hanging out at the club. If that sounds like you, you're probably not going to make it.
 
-### Ok, So what are we going to learn
+### Ok, So what are we going to learn?
 
 * We are going to learn how to create [production level software](http://softwareengineering.stackexchange.com/questions/68213/difference-between-software-development-and-production). This is software that makes money. You will be able to do it for yourself or other people. Either way you will get money.
 
@@ -80,7 +83,7 @@ This isn’t a series of tutorials that will teach you how to lay bricks. This i
 #### Developer tools and environments
 
 * [Visual Studio](https://www.visualstudio.com/)
-* [Visual Studio Code](https://code.visualStudion.com)
+* [Visual Studio Code](https://code.visualstudio.com)
 * [PowerShell (PoSH)](https://msdn.microsoft.com/en-us/powershell)
 * [Git](https://en.wikipedia.org/wiki/Git)
 * [GitHub](https://github.com/)
@@ -88,13 +91,13 @@ This isn’t a series of tutorials that will teach you how to lay bricks. This i
 
 ### Math and Reading
 
-> Math is going to help you learn to think the way you should be thinking when it comes to software, that’s pretty much it. If you don’t like math, that’s cool, you should still practice it. You don’t need to know a lot of math to be a successful programmer. You do need to be comfortable with math if you want to be a $150,000+/year programmer.
+> Math is going to help you learn to think the way you should be thinking when it comes to software. That’s pretty much it. If you don’t like math, that’s cool, you should still practice it. You don’t need to know a lot of math to be a successful programmer. You do need to be comfortable with math if you want to be a $150,000+/year programmer.
 ---
-> We also need to read and we need to ready a lot. We are going to run into all kinds of problems and sometimes the only way to find the answer is to read. Reading is like any other skill. The more reading we, the better at reading we get and in turn, the more reading we can do. We will build a foundation of knowledge that can never be taken away which makes is possible for us to find and formulate new answers faster and faster.
+> We also need to read and we need to read a lot. We are going to run into all kinds of problems and sometimes the only way to find the answer is to read. Reading is like any other skill. The more reading we do, the better at reading we get and in turn, the more reading we can do. We will build a foundation of knowledge that can never be taken away which makes it possible for us to find and formulate new answers faster and faster.
 
 ### Additional skills
 
-There are some things that we are going to learn along the way that are not necessary but, they are going to expand our minds and help of become better at programming and doing things faster. Both being a faster and better programmer will help us to get more money.
+There are some things that we are going to learn along the way that are not necessary but, they are going to expand our minds and help us become better at programming and doing things faster. Both being a faster and better programmer will help us to get more money.
 
 #### Everything done in PowerShell
 
@@ -110,12 +113,12 @@ The reasons why we are doing everything [command line](https://en.wikipedia.org/
 
 All of the code we write will be tracked using git and `pushed` to [GitHub](https://www.github.com). Git is used by hundreds of thousands of individuals and companies around the world. Even [Microsoft](https://github.com/Microsoft) uses git.
 
-Anytime we experiment with front end code it will be posted to [CodePen](https://www.codepen.io). During the course there will be some projects that can’t be hosted on a traditional web server, for those projects we’ll use one of the following:
+Anytime we experiment with front end code it will be posted to [CodePen](https://www.codepen.io). During the course there will be some projects that can’t be hosted on a traditional web server. For those projects we’ll use one of the following:
 
 ##### Full Stack Project Deployments
 
 * [Heroku](https://www.heroku.com/)
-* [GoMix](https://gomix.com/about/)
+* [Glitch](https://glitch.com/about/)
 
 Some heftier more complicated options are:
 
@@ -124,9 +127,9 @@ Some heftier more complicated options are:
 
 #### Documentation
 
-Everything written is written using a [GitHub flavor of markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown).
+* Everything written is written using a [GitHub flavor of markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown).
 
-This entire course was written in markdown and exported to HTML so you could see it here on the internet. Because of the simplicity of markdown, as software engineers we can write our own markdown parsers that can do just about anything we can imagine.
+This entire course was written in markdown and exported to HTML so you could see it here on the internet. Because of the simplicity of markdown, we as software engineers can write our own markdown parsers that can do just about anything we can imagine.
 
 #### Video
 
