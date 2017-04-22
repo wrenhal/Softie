@@ -4,7 +4,7 @@
 
 > start small, remain small, end up small
 
-### Why are you here?
+### Why are you here
 
 * Do you want to work for yourself creating stuff with code?
 * Do you want to work for someone else creating stuff with code?
@@ -35,7 +35,7 @@ Turn you into a capable software engineer that can write software anywhere, anyt
 
 * If steps 1 through 6 sound like you, but you're not making any money, or not making enough money, [check this out](#).
 
-## How Long will it take to complete everything?
+## How Long will it take to complete everything
 
 You can start calling yourself a coder, programmer, or engineer right now if you like. Other than that I don’t know. Everyone is different. Most of us aren’t going to take this serious and quit in the first couple of weeks.
 
@@ -49,7 +49,7 @@ If you want to learn to create software because you heard “It pays good money�
 
 This isn’t a series of tutorials that will teach you how to lay bricks. This is a commitment that will teach you how to build empires. If empire building were easy, everyone would be doing it. Most people are content playing on social media, watching tv, and hanging out at the club. If that sounds like you, you're probably not going to make it.
 
-### Ok, So what are we going to learn?
+### Ok, So what we are going to learn
 
 * We are going to learn how to create [production level software](http://softwareengineering.stackexchange.com/questions/68213/difference-between-software-development-and-production). This is software that makes money. You will be able to do it for yourself or other people. Either way you will get money.
 
